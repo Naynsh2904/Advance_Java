@@ -162,7 +162,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\Nayan\Desktop\_Advance_Java_\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Nayan\Desktop\_Advance_Java_\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\createForm" path="/createForm" reloadable="true" source="org.eclipse.jst.jee.server:createForm"/></Host>
+      <Context docBase="C:\Users\Nayan\Desktop\_Advance_Java_\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Nayan\Desktop\_Advance_Java_\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\createForm" path="/createForm" reloadable="true" source="org.eclipse.jst.jee.server:createForm"/><Context docBase="C:\Users\Nayan\Desktop\_Advance_Java_\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\createForm2" path="/createForm2" reloadable="true" source="org.eclipse.jst.jee.server:createForm2"/><Context docBase="C:\Users\Nayan\Desktop\_Advance_Java_\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\LoginForm" path="/LoginForm" reloadable="true" source="org.eclipse.jst.jee.server:LoginForm"/><Context docBase="C:\Users\Nayan\Desktop\_Advance_Java_\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\JspForm" path="/JspForm" reloadable="true" source="org.eclipse.jst.jee.server:JspForm"/></Host>
     </Engine>
   </Service>
 </Server>

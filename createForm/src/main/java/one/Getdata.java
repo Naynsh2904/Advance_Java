@@ -34,6 +34,7 @@ public class Getdata extends HttpServlet {
 			out.println ("city: "+city);
 			out.println ("state: "+state);
 			out.println ("pincode: "+pin);
+			
 		}
 	}
 }

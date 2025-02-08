@@ -30,7 +30,7 @@
     <nav>
       <ul class="d-flex justify-content-evenly py-3 bg-secondary-subtle ">
         <li><a href="#">Home</a></li>
-        <li><a href="#">Home</a></li>
+        <li><a href="#">about</a></li>
         <li><a href="#">Home</a></li>
         <li><a href="#">Home</a></li>
         <li><a href="#">Home</a></li>
